@@ -1,5 +1,5 @@
 ## Deep Iterative Surface Normal Estimation
-Code repository for the paper [<i>Deep Iterative Surface Normal Estimation</i>](https://arxiv.org/abs/1904.07172), CVPR 2020 (accepted for publication), by Jan Eric Lenssen, Christian Osendorfer and Jonathan Masci @NNAISENSE.
+Code repository for the paper [<i>Deep Iterative Surface Normal Estimation</i>](https://arxiv.org/abs/1904.07172), CVPR 2020 (oral), by Jan Eric Lenssen, Christian Osendorfer and Jonathan Masci @NNAISENSE.
 <p align="center">
   <img width="40%" src="overview.png?sanitize=true"/>
 </p>
